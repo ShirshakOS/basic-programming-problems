@@ -1,4 +1,4 @@
-//count the frequency of the elements present in an integer array
+//count the frequency of the elements present in an integer array1
 #include<iostream>
 using namespace std;
 void frequency(int a[]);
