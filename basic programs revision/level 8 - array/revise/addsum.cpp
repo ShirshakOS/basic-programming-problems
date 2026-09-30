@@ -23,7 +23,7 @@ int addsum(int num)
             temp=temp/10;
          }
          temp=sum;
-        if(count==1)
+        if(count<=1)
         {
             break;
         }
